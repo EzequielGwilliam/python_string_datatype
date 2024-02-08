@@ -1,12 +1,25 @@
+# Comment - code that is not executed. 
+# In VS code I can use
+# Multiple lines of comment 
+# Why comment?
+# - to Explain something to myself or other who might encounter the code
+# Pseudo code - help create the logic required for a piece of code. 
+
+
+
 # TODO Create Variables
-#   - Create the following variables
+#   - Create the following variables ---> STRING
 #   - my_first_name
+my_first_name = 'Ezequiel' #losely typed 'data type'
 #       -set this equal to your first name
 #   - my_last_name
+my_last_name = 'Gwilliam'
 #       -set this equal to your last name
 #   - my_year_of_birth
+my_year_of_birth = 1999 #this is an integer data type
 #       -set this equal to your birth year (doesn't have to be real should be less then 100 yrs ago)
 #   - current_year
+current_year = 2024
 #       -set this equal to 2020
 
 
